@@ -1,0 +1,435 @@
+[
+
+  {
+   "slug": "Professional Business Services",
+    "firstSection": {
+      "title": "Smart Communication for Smarter Professionals",
+      "shortDescription": "JustTawk helps law firms, accountants, coaches, and consultants automate follow-ups,send files securely, and handle client calls without missing a beat."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates client follow-ups to save time",
+          "Enables secure file sharing during calls",
+          "Manages client calls efficiently without missing any",
+          "Reduces administrative workload so professionals can focus on core services",
+          "Supports multi-channel communication for seamless client engagement"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Professional & Business Services",
+        "features": [
+          "Automated follow-up calls and reminders",
+          "Secure file transfer during conversations",
+          "Call scheduling and client intake management",
+          "Multi-channel communication: calls, WhatsApp, email",
+          "AI-driven call transcription and sentiment analysis"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "As a boutique HR consultancy, JustTawk helped us handle interview coordination and candidate queriAs the founder of Al Noor HR Consultancy in Dubai, JustTawk helped us streamline interview coordination and candidate queries automatically, saving us over 10 hours weekly.",
+      "author": "— Fatima Al Mansoori,",
+      "authorTitle": "HR Consultant"
+    }
+    
+  
+  },
+
+   {
+   "slug": "Health and Wellness",
+    "firstSection": {
+      "title": "Clinics, pharmacies, gyms, and wellness centers use JustTawk to confirm appointments, handle FAQs, track mood logs, and send follow-ups.",
+      "shortDescription": "Clinics, pharmacies, gyms, and wellness centers use JustTawk to confirm appointments, handle FAQs, track mood logs, and send follow-ups."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Reduces patient no-shows with automated appointment reminders",
+          "Handles common patient queries via AI-powered FAQs",
+          "Tracks mood and health logs through conversational bots",
+          "Ensures secure patient data management compliant with regulations",
+          "Provides multilingual support for diverse patient populations"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Health Wellness",
+        "features": [
+          "Automated appointment confirmations and reminders",
+          "AI-powered FAQs to handle common patient questions",
+          "Mood and health log tracking via conversational bots",
+          "HIPAA-compliant call recording and data security",
+          "Multi-language support"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"With JustTawk, our wellness clinic in Abu Dhabi automated diet plan follow-ups and reduced no-shows by 40% in just 3 months.",
+      "author": "— Dr. Omar Al Farsi,",
+      "authorTitle": "Clinic Director, Harmony Wellness Center"
+    }
+    
+  
+  },
+
+
+
+   {
+   "slug": "Technology and It Services",
+    "firstSection": {
+      "title": "AI-Driven Support for Tech-Driven Companies",
+      "shortDescription":"SaaS and IT providers leverage JustTawk’s voice bots and chat automation for 24/7 onboarding, product demos, and support routing"
+     },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Enables 24/7 onboarding and support without extra hires",
+          "Automates product demo scheduling and support ticket routing",
+          "Provides real-time analytics to optimize support performance",
+          "Integrates seamlessly with CRM and helpdesk tools",
+          "Supports multiple time zones and languages for global reach"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Technology IT Services",
+        "features": [
+          "AI voice bots for onboarding and support",
+          "Automated product demo scheduling",
+          "Support ticket creation and routing integration",
+          "Real-time analytics and agent performance tracking",
+          "Integration with CRM and helpdesk tools"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"At TechnoSol Dubai, we scaled customer support across three time zones using JustTawk, without hiring additional agents.",
+      "author": "— Saeed Al Hashmi",
+      "authorTitle": "Customer Support Manager"
+    }
+    
+  
+  },
+
+
+
+   {
+   "slug": "Creative Media Services",
+    "firstSection": {
+      "title": "Automate the Admin,Focus on the Creative",
+      "shortDescription": "Agencies, freelancers, and content creators use JustTawk to share portfolios, book clients,and send updates while staying focused on creative work."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates client booking and follow-ups, freeing creatives from admin tasks",
+          "Shares portfolios and updates automatically with potential clients",
+          "Manages multiple client inquiries across channels without delays",
+          "Enables freelancers and agencies to stay responsive even when busy with projects",
+          "Supports seamless multi-channel communication (calls, WhatsApp, email)"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Creative Media Services",
+        "features": [
+          "Automated client booking and reminders",
+          "Portfolio sharing via chat and calls",
+          "Multi-channel client communication management",
+          "AI-driven follow-up automation",
+          "Real-time notifications and updates"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"As a freelance photographer in Sharjah, JustTawk booked 3 new clients while I was on a shoot. It’s like having a silent studio manager",
+      "author": "— Aisha Al Zaabi,",
+      "authorTitle": "Freelance Photographer"
+    }
+    
+  
+  },
+
+     {
+   "slug": "Meet Fruit Vegetable Suppliers",
+    "firstSection": {
+      "title": "Harvesting Efficiency with Smart Communication",
+      "shortDescription": "From organic farms to distributors, JustTawk confirms recurring orders, shares pricing updates,and manages delivery coordination through WhatsApp."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Confirms recurring orders automatically to reduce manual follow-up",
+          "Shares pricing and product updates instantly through WhatsApp bots",
+          "Coordinates deliveries efficiently with automated notifications",
+          "Handles large order volumes without extra staff",
+          "Supports multi-language communication to connect with diverse customers"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Meat Fruit Vegetable Suppliers",
+        "features": [
+          "Automated order confirmation and tracking",
+          "WhatsApp bot for pricing updates and inquiries",
+          "Delivery scheduling and coordination tools",
+          "Bulk messaging and notifications",
+          "Multi-language support for regional languages"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"Our organic produce delivery service in Dubai now handles over 100 orders daily through JustTawk’s smart WhatsApp bot.",
+      "author": "— Hassan Al Khalifa",
+      "authorTitle": "Owner, Green Harvest UAE"
+    }
+    
+  
+  },
+
+
+     {
+   "slug": "Automotive Services",
+    "firstSection": {
+      "title": "Drive Engagement.Repair Faster.",
+      "shortDescription": "Car repair shops, dealerships, and rentals use JustTawk to automate bookings, send updates, and handle customer inquiries instantly."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates service booking and appointment reminders",
+          "Instantly responds to customer inquiries about services and availability",
+          "Reduces missed calls and improves customer engagement",
+          "Keeps customers updated on repair status via automated messages",
+          "Manages multi-channel communication seamlessly across calls and WhatsApp"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Automotive Services",
+        "features": [
+          "Automated service booking and reminders",
+          "Instant inquiry handling with AI chatbots",
+          "Real-time status updates and notifications",
+          "Call recording and monitoring for quality assurance",
+          "Integration with CRM for customer history and follow-ups"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"At Sharjah Auto Care, our customers book car servicing via WhatsApp, and missed calls have dropped by 90%.",
+      "author": "— Rashed Al Mazrouei",
+      "authorTitle": "ervice Manager"
+    }
+    
+  
+  },
+
+
+  
+     {
+   "slug": "Non Profit Social Enterprises",
+    "firstSection": {
+      "title": "Scaling Social Good with Smart Support",
+      "shortDescription": "Non-profits use JustTawk to handle volunteer signups, donor inquiries, event coordination, and feedback collection—all automatically."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates volunteer signups and donor communication",
+          "Handles large volumes of donation inquiries without extra staffing",
+          "Coordinates event registrations and logistics smoothly",
+          "Collects and manages feedback automatically to improve outreach",
+          "Provides consistent and timely responses across channels"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Non Profit Social Enterprises",
+        "features": [
+          "Automated volunteer and donor signup processing",
+          "Multi-channel inquiry handling (calls, WhatsApp, email)",
+          "Event coordination and reminder automation",
+          "Feedback collection and reporting tools",
+          "Integration with CRM and donor management systems"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"With JustTawk, Emirates Charity Foundation in Dubai processed over 1,000 donation queries during Ramadan without hiring extra staff.",
+      "author": "— Layla Al Suwaidi",
+      "authorTitle": "Operations Manager"
+    }
+    
+  
+  },
+
+
+
+
+     {
+   "slug": "Home Services",
+    "firstSection": {
+      "title": "Keep Homes Running Without Missing a Call",
+      "shortDescription": "Pest control, landscaping, security, and cleaning services use JustTawk for automated bookings, reminders, and customer follow-ups."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates booking and scheduling for pest control, landscaping, and cleaning services",
+          "Sends timely reminders to customers and service teams",
+          "Enables 24/7 booking via WhatsApp and calls",
+          "Reduces missed bookings by confirming jobs instantly",
+          "Handles customer follow-ups and feedback efficiently"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Home Services",
+        "features": [
+          "Automated booking and scheduling",
+          "Reminder notifications and confirmations",
+          "24/7 booking via WhatsApp bot and voice bot",
+          "Customer feedback collection",
+          "Integration with calendar and dispatch systems"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"Clients now book pest control via WhatsApp at midnight, and we wake up to confirmed jobs here in Abu Dhabi.",
+      "author": "— Khalid Al Nuaimi,",
+      "authorTitle": "Owner, SafeHome Services"
+    }
+
+  },
+
+
+
+     {
+   "slug": "Arts Crafts",
+    "firstSection": {
+      "title": "Let Your Craft Talk for You",
+      "shortDescription": "Artists and handmade goods sellers automate inquiries, bookings, and order tracking using JustTawk voice and chat tools."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates responses to product inquiries and order tracking",
+          "Handles bookings and sales conversations via chat and voice bots",
+          "Manages Instagram DM overflow without losing potential customers",
+          "Shares pricing and availability instantly",
+          "Closes orders efficiently without manual intervention"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Arts Crafts",
+        "features": [
+          "AI-powered chat and voice response for inquiries",
+          "Order tracking and booking management",
+          "Automated price sharing and FAQs",
+          "Multi-channel communication including social media integration",
+          "Sales and order closure automation"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"I stopped missing Instagram DMs in Dubai. JustTawk now answers, shares prices, and closes orders for my handmade crafts.",
+      "author": "— Sara Al Qassimi,",
+      "authorTitle": "Artist & Business Owner"
+    }
+
+  },
+
+  
+     {
+   "slug": "Contracting Services Renewable Energy Sustainability",
+    "firstSection": {
+      "title": "Powering Smarter Homes and Greener Business",
+      "shortDescription": "From solar panel installers to plumbers and AMC providers, JustTawk routes leads, confirms service schedules, and follows up—all via AI."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates lead routing and qualification for solar installers, plumbers, and AMC providers",
+          "Confirms service appointments and schedules follow-ups automatically",
+          "Reduces lead response times drastically, improving conversion rates",
+          "Manages multi-channel communication with potential and existing customers",
+          "Supports sustainability goals with efficient customer engagement"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Best features for Contracting Services Renewable Energy Sustainability",
+        "features": [
+          "AI lead routing and qualification",
+          "Automated appointment confirmations and follow-ups",
+          "Multi-channel engagement via calls, WhatsApp, and email",
+          "Real-time analytics and lead tracking",
+          "ntegration with CRM and field service management tools"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description":"We cut lead response time from 6 hours to 15 minutes using JustTawk’s automation at GreenTech Solutions, Dubai..",
+      "author": "— Mohammed Al Habsi,",
+      "authorTitle": "Sales Head"
+    }
+
+  }
+
+
+
+
+]

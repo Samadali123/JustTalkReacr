@@ -1,0 +1,392 @@
+[
+   {
+    "slug": "BPO",
+    "firstSection": {
+      "title": "Optimizing Client Communication with JustTawk",
+      "shortDescription": "BPO companies handle vast amounts of client interactions.JustTawk streamlines communication processes, ensuring efficiency and client satisfaction"
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates routine client communications",
+          "Provides real-time updates and notifications",
+          "Enhances client onboarding experiences",
+          "Facilitates feedback collection for service improvement"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for BPO",
+        "features": [
+          "Seamless integration with CRM systems",
+          "Customizable messaging templates",
+          "Multichannel communication support",
+          "Detailed analytics for performance tracking"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "Implementing JustTawk in our BPO operations led to a 20% increase in client satisfaction scores. It streamlined our communication workflows.",
+      "author": "— Anita Desai,",
+      "authorTitle": "Client Relations Head, Pune"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Enhance BPO Client Interactions → ",
+      "buttonText":"Discover JustTawk Solutions"
+    }
+  },
+
+  {
+    "slug": "BFSI",
+    "firstSection": {
+      "title": "Secure,Scalable,Smart - JustTalk is the Game-Changer for BFSI",
+      "shortDescription": "In the high-stakes world of finance, insurance, and banking, communication isn't just important—it's mission-critical.Customers expect lightning-fast support, secure interactions, and 24/7 availability.With JustTawk, financial institutions can deliver all of that and more without burdening their internal teams."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates common queries around loans, EMI options, policies, and investment products",
+          "Provides secure and compliant communication workflows",
+          "Offers AI-generated follow-ups to improve lead conversion",
+          "Reduces wait times for customers by up to 85%"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for BFSI",
+        "features": [
+          "End-to-end encryption for conversations",
+          "Smart ticketing and lead routing",
+          "IVR + WhatsApp bots for continuous customer support",
+          "Seamless CRM integration with audit trail"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "Our NBFC in Mumbai saw a dramatic reduction in call handling time after implementing JustTawk. Customers could instantly access loan status and EMI queries, while our team focused on upselling and compliance tasks",
+      "author": "— Pooja Deshmukh",
+      "authorTitle": "Customer Support Lead"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Upgrade Your Financial Customer Experience → ",
+      "buttonText":"Book a Demo Now."
+    }
+  },
+  {
+    "slug": "Education",
+    "firstSection": {
+      "title": "Make Every Student Interaction Count – With JustTawk",
+      "shortDescription": "Educational institutions—schools, universities, coaching centers,EdTech companies—deal with massive inflows of questions from students, parents, and alumni. Whether it’s during admissions or exam time,JustTawk ensures no one is left waiting."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Automates admission inquiries and handles form submissions",
+          "Responds to curriculum, fee structure, and event details 24/7",
+          "Supports multiple languages for international students",
+          "Books appointments with faculty or counselors"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Education",
+        "features": [
+          "Conversational AI on WhatsApp, website, and social",
+          "Live chat with escalation triggers to counselors",
+          "Real-time response logs for management",
+          "AI dashboards to analyze query trends"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "\"““During peak admissions, our college in Pune was swamped with inquiries. JustTawk handled 80% of the FAQs, allowing our staff to focus on strategic engagement and walk-ins.””\"",
+      "author": "— Sunil Patil",
+      "authorTitle": "Admissions Officer"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Educate Smarter, Not Harder  → ",
+      "buttonText":"Start Your Free Trial."
+    }
+  },
+
+   {
+    "slug": "Food and Beverage",
+    "firstSection": {
+      "title": "Don’t Miss Orders – Let JustTawk Keep Your Kitchen Busy",
+      "shortDescription": "Every missed call in the F&B industry is a missed opportunity.From restaurant reservations to takeaway orders JustTawk ensures customers are heard instantly—even during rush hours or holidays."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Shares menus, offers, and directions instantly on WhatsApp or calls",
+          "Takes orders and confirms reservations without human intervention",
+          "Follows up with customers for feedback and repeat offers"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Food and Beverage",
+        "features": [
+          "Smart call redirection to available staff",
+          "WhatsApp menu bot with real-time updates",
+          "Google Maps integration for location sharing",
+          "Integrated order tracking"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "Our cloud kitchen in Delhi tripled its WhatsApp orders with JustTawk automation. It even sends order updates, helping us build trust and repeat customers.",
+      "author": "— Meena Arora",
+      "authorTitle": "Founder, TandooriExpress"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Let JustTawk Serve Your Guests  → ",
+      "buttonText":"Get Started Now."
+    }
+  },
+
+     {
+    "slug": "Hospitality",
+    "firstSection": {
+      "title": "nstant Bookings.Happy Guests. Less Stress.",
+      "shortDescription": "From room availability to late check-outs, guests expect quick answers—any time of the day. JustTawk empowers hospitality brands to give real-time responses across multiple channels, ensuring a memorable stay begins with a simple conversation."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Answers inquiries about bookings, pricing, and facilities",
+          "Handles requests like late check-outs or airport transfers",
+          "Sends automatic confirmations and pre-arrival messages"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Hospitality",
+        "features": [
+          "Automated WhatsApp and call bots",
+          "AI support in multiple languages",
+          "Loyalty and feedback modules",
+          "Live chat integration for your website"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "We operate a chain of budget hotels across Kerala. JustTawk helped us streamline queries and automate reservation confirmations—our occupancy went up by 12% in 45 days.",
+      "author": "— Ashok Varma",
+      "authorTitle": "General Manager"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Turn Every Guest into a Loyal Advocate  → ",
+      "buttonText":"Explore JustTalk for Hotels."
+    }
+  },
+
+  {
+   "slug": "IT/SaaS",
+    "firstSection": {
+      "title": "IScale Customer Support WithoutScaling Headcount – Let JustTawk Handle It",
+      "shortDescription": "In the IT and SaaS world, fast, personalized, and multi-channel support is crucial for retaining users and converting free trials into paying customers. JustTawk provides real-time engagement, self-service automation, and smart escalation so your product team can focus on development—while we handle communication."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Instantly answers setup, pricing, and subscription-related questions",
+          "Supports ticketing and escalation from multiple channels",
+          "Offers AI-powered onboarding for new users",
+          "Drives customer retention through proactive follow-ups"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for IT/SaaS",
+        "features": [
+          "Integration with Jira, HubSpot, and custom CRMs",
+          "AI onboarding chatbots for new users",
+          "Real-time outage notifications and updates",
+          "Built-in multilingual support"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "We integrated JustTawk into our DevOps tool. Support tickets became smarter, and our small team handled 4x more customers without losing quality.",
+      "author": "— Arvind Kulkarni,",
+      "authorTitle": "Founder, SaaS Company, Bengaluru"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Supercharge Your Product Support   → ",
+      "buttonText":"Book a Demo Now."
+    }
+  },
+
+  {
+   "slug": "Logistics",
+    "firstSection": {
+      "title": "Route Smarter. Respond Faster.JustTawk Keeps Your Deliveries Moving",
+      "shortDescription": "Whether it’s real-time tracking, pick-up updates, or proof of delivery, logistics companies are always in motion. JustTawk empowers you to engage with customers, vendors, and drivers instantly—minimizing delays and boosting satisfaction."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Sends automated pickup, delivery, and delay notifications",
+          "Resolves last-mile issues in real time",
+          "Provides instant order status via WhatsApp or call",
+          "Collects customer feedback post-delivery"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Logistics",
+        "features": [
+          "Route management alerts and ETA updates",
+          "Driver communication dashboard",
+          "Integration with logistics ERP platforms",
+          "Geo-location sharing and tracking links"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "With JustTawk, we eliminated 80% of status-related calls. The bot shares tracking info instantly, and our support team can now focus on escalations.",
+      "author": "— Ankita Sinha,",
+      "authorTitle": "Customer Support Lead, Logistics Firm, Delhi NCR"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Drive Your Logistics Communication   → ",
+      "buttonText":"Get JustTalk Today."
+    }
+  
+  },
+
+
+    {
+   "slug": "Manufacturing",
+    "firstSection": {
+      "title": "Modernize Customer & Vendor Communication Across Your Supply Chain",
+      "shortDescription": "Manufacturers need smooth, accurate communication with distributors, suppliers, and clients to avoid downtime and disruptions. JustTawk automates key touchpoints, streamlining everything from order status to production updates."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Handles inquiries about order status and dispatch times",
+          "Sends alerts for production updates and delays",
+          "Enables real-time vendor coordination and approvals",
+          "Automates post-sale warranty and service communications"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Manufacturing",
+        "features": [
+          "WhatsApp-based vendor alerts and updates",
+          "Escalation handling for delayed shipments",
+          "CRM integration for dealer and distributor follow-up",
+          "Broadcast features for plant or product updates"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "From order status to field service queries, JustTawk streamlined our entire external communication. Our channel partners are more informed and responsive.",
+      "author": "— Vinay Tripathi,",
+      "authorTitle": " GM Sales, Pune-based Manufacturing Unit"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Let Your Factory Talk Smarter   → ",
+      "buttonText":"Start a Free Trial"
+    }
+  
+  },
+
+
+
+
+   {
+   "slug": "Retail",
+    "firstSection": {
+      "title": "Delight Your Shoppers with Instant Answers and Personalized Support",
+      "shortDescription": "In retail, customer loyalty is built on fast, friendly, and accurate support. From product inquiries to return requests, JustTawk helps your brand shine—online and offline—by giving your customers what they want, when they want it."
+
+    },
+    "secondSection": [
+      {
+        "image": "/assets/industries/bpo.jpg",
+        "title": "How JustTawk Adds Value:",
+        "features": [
+          "Sends automated order confirmations and tracking info",
+          "Provides support for return/exchange and store information",
+          "Promotes new launches and deals through WhatsApp",
+          "Engages customers with AI follow-ups post-purchase"
+        ]
+      },
+      {
+        "image": "/assets/industries/bpo-2.jpg",
+        "title": "Key Features for Retail",
+        "features": [
+          "Multi-location support for retail chains",
+          "Inventory and product catalog integration",
+          "Loyalty program notifications",
+          "Voice and text support on multiple channels"
+        ]
+      }
+    ],
+    "thirdSection": {
+      "image": "/assets/case-studies/bpo-user.jpg",
+      "title": "Real User Story",
+      "description": "We run a 10-store apparel chain in the UAE. JustTawk unified our customer service—shoppers now get WhatsApp responses within seconds. Our CSAT shot up.",
+      "author": "— Hala Mansoor",
+      "authorTitle": "Retail Manager, Fashion Brand, Sharjah"
+    },
+    "footer": {
+      "logo": "/assets/images/just-talk-logo.png",
+      "text": "Let your business achieve new heights  → ",
+      "buttonText":"Get Started Now"
+    }
+  
+  }
+
+]
