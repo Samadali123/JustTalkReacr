@@ -6,6 +6,8 @@ import Contact from "../pages/ContactUs";
 import Features from "../pages/Features";
 import Pricing from "../pages/Pricing";
 import IndustryDetail from "../pages/IndustryDetail";
+import PrivacyPolicy from "../pages/PrivacyPolicy";
+import UserStories from "../pages/UserStories";
 import NotFound from "../pages/NotFound";
 
 
@@ -19,6 +21,8 @@ export default function AppRoutes() {
       <Route path="/pricing" element={<Pricing />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/about" element={<About />} />
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+      <Route path="/user-stories" element={<UserStories />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   );

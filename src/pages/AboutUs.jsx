@@ -1,8 +1,11 @@
-export default function AboutUs(){
-    return (
-        <div>
-            <h1>About Us</h1>
-            <p>This is the About Us page.</p>
-        </div>
-    )
+import AboutHeroSection from "../components/about/AboutHeroSection";
+import OurStorySection from "../components/about/OurStorySection";
+
+export default function AboutUs() {
+  return (
+    <div>
+      <AboutHeroSection />
+      <OurStorySection />
+    </div>
+  );
 }
