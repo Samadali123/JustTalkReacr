@@ -2,24 +2,24 @@ import { useParams } from "react-router-dom";
 import { useRegion } from "../context/RegionContext";
 import indiaIndustries from "../data/industriesIndia.json";
 import uaeIndustries from "../data/industriesUae.json";
+import IndustryDetailContent from "../components/industries/IndustryDetailContent";
 
 export default function IndustryDetail() {
   const { slug } = useParams();
   const { region } = useRegion();
 
-
-  const data = region === "india" ? indiaIndustries : [...indiaIndustries, ...uaeIndustries];
-  const industry = data.find((item) => item.slug === slug);
+  const industries = region === "india" ? indiaIndustries : uaeIndustries;
+  const industry = industries.find((item) => item.slug === slug);
 
   if (!industry) {
-    return <h2 className="p-6">Industry not found</h2>;
+    return (
+      <div className="container mx-auto px-4 py-16 text-center">
+        <h1 className="text-4xl font-bold">Industry not found</h1>
+      </div>
+    );
   }
 
- return (
-    <div>
-       <h3>Industry : {slug}</h3>
-    </div>
-  );
+  return <IndustryDetailContent industry={industry} />;
 }
 
 

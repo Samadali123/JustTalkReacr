@@ -1,7 +1,11 @@
-export default function Features(){
-    return (
-        <div className="features">
-            <h1>Features Page</h1>
-        </div>
-    )
+import FeaturesHeroSection from "../components/features/FeaturesHeroSection";
+import AfterOfficeHoursSupportSection from "../components/features/AfterOfficeHoursSupportSection";
+
+export default function Features() {
+  return (
+    <div>
+      <FeaturesHeroSection />
+      <AfterOfficeHoursSupportSection />
+    </div>
+  );
 }
